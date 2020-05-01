@@ -1,0 +1,10 @@
+features:
+- name: "Tomb Stone"
+  img: "/img/tomb.jpg"
+  bio: "Rumour has it that an onsite imbecil got the form backwards on this one. This has lead to a decade old bitter dispute with a small Welsh village over who should claim the Guinness Book record entry for steepest quarter pipe."
+- name: "Death Box"
+  img: "/img/deathbox.png"
+  bio: "This Death Box is home to a black plague rat. Food and homage must be paid on entry to avoid releasing the black death on the world "
+- name: "Hot Pocket"
+  img: "/img/pocket.png"
+  bio: "I wasn't there but over concretemas three wise men followed a star or something to the Bone Yard. I hear there were crucifictions, drinking of blood and black magic. When I got back everything was mellow but this had showed up"

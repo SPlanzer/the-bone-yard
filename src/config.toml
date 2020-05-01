@@ -1,0 +1,48 @@
+#baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Bone Yard"
+theme = "hamburg"
+
+[params]
+    # Short subtitle/tagline. This is displayed in the header.
+    themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
+    # To load additional CSS styles
+    customCSS = ['hamburg.css']
+    # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
+    ShowGDPRNotice = true
+	subtitle = "The unoffical Bone Yard web page "
+	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+	mainSections = ["Builders"]
+
+[languages]
+	[languages.en]
+		languageCode = "en"
+		languageName = "English"
+		weight = 2
+		subtitle = "Community skate park"
+		[languages.en.menu]
+			[[languages.en.menu.main]]
+				name = "Builders"
+				identifier = "Builders"
+				url = "builders/builders"
+				weight = 9
+			[[languages.en.menu.main]]
+				name = "Features"
+				identifier = "Features"
+				url = "features/features"
+				weight = 8
+			[[languages.en.menu.main]]
+				name = "Events"
+				identifier = "Events"
+				url = "pages/events"
+				weight = 1
+			[[languages.en.menu.main]]
+				name = "Photos"
+				identifier = "Photos"
+				url = "pages/photos"
+				weight =3
+			[[languages.en.menu.main]]
+				name = "Video"
+				identifier = "Video"
+				url = "pages/video"
+				weight =2
