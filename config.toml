@@ -1,5 +1,7 @@
 baseURL = "https://master.d1qkinvelrebw8.amplifyapp.com/"
+
 languageCode = "en-us"
+
 title = "The Bone Yard"
 theme = "hamburg"
 
@@ -14,35 +16,30 @@ theme = "hamburg"
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["Builders"]
 
-[languages]
-	[languages.en]
-		languageCode = "en"
-		languageName = "English"
-		weight = 2
-		subtitle = "Community skate park"
-		[languages.en.menu]
-			[[languages.en.menu.main]]
+
+[menu]
+[[menu.main]]
 				name = "Builders"
 				identifier = "Builders"
-				url = "builders/builders"
+				URL = "/builders/builders"
 				weight = 9
-			[[languages.en.menu.main]]
+[[menu.main]]
 				name = "Features"
 				identifier = "Features"
-				url = "features/features"
+				URL = "/features/features"
 				weight = 8
-			[[languages.en.menu.main]]
+[[menu.main]]
 				name = "Events"
 				identifier = "Events"
-				url = "pages/events"
+				URL = "/pages/events"
 				weight = 1
-			[[languages.en.menu.main]]
+[[menu.main]]
 				name = "Photos"
 				identifier = "Photos"
-				url = "pages/photos"
+				URL = "/pages/photos"
 				weight =3
-			[[languages.en.menu.main]]
+[[menu.main]]
 				name = "Video"
 				identifier = "Video"
-				url = "pages/video"
+				URL = "/pages/video"
 				weight =2

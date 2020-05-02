@@ -4,6 +4,14 @@ date: 2020-05-01T15:53:17+12:00
 draft: false
 ---
 
+
+
+{{ range .Site.Menus }}
+<p>
+    "{{ .name }}"
+</p>
+{{end}}
+
 ## **Welcome to the Bone Yard**
 This is the offical website for the Newtown Bone Yard. 
 
