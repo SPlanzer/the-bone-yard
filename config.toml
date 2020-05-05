@@ -1,4 +1,4 @@
-#baseURL = "https://master.d1qkinvelrebw8.amplifyapp.com/"
+baseURL = "https://master.d1qkinvelrebw8.amplifyapp.com/"
 languageCode = "en-us"
 title = "The Bone Yard"
 theme = "bastard"
@@ -7,35 +7,13 @@ theme = "bastard"
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
     # To load additional CSS styles
-    customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
 	subtitle = "The unoffical Bone Yard web page "
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["Builders"]
-
     name = "The Bone Yard"
-    #description = "A mystery person"
-    #email = "anthony.russel42@example.com"
-    #phone = "+234 23 9873237"
-    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    #avatar = "images/guy.jpg"
     banner = "images/bg.png"
-    background = ""
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-
-    showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
-
-    footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = true
-    footerEnableFormWidget = true
 
 
 [menu]
