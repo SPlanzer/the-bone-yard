@@ -5,4 +5,4 @@ draft: false
 noshowdate: true
 ---
 {{< load-photoswipe >}}
-{{< gallery dir="/photos/" />}}`
+{{< gallery dir="photos/" />}}`
