@@ -3,7 +3,6 @@ title: "Welcome to the Bone Yard"
 date: 2020-05-01T15:53:17+12:00
 draft: false
 ---
-
 This is the offical website for the Newtown Bone Yard. 
 
 
