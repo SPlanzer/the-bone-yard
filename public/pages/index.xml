@@ -2,41 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on The Bone Yard</title>
-    <link>https://master.d1qkinvelrebw8.amplifyapp.com/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on The Bone Yard</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2020 18:34:37 +1200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 15:53:17 +1200</lastBuildDate>
     
-	<atom:link href="https://master.d1qkinvelrebw8.amplifyapp.com/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Welcome to the Bone Yard</title>
+      <link>/pages/about/</link>
+      <pubDate>Fri, 01 May 2020 15:53:17 +1200</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>This is the offical website for the Newtown Bone Yard.
+The Bone Yard is a gentrfication, reivgaration, beautfication, regeneration skin care and nature conservation project.
+colonilsation project. terraform.
+state of the art sun bathing facilites. bottle recycling drop of dpeot.
+Some thing about olympics training &amp;hellip; COmpare to bolowing club Something about nepolian conquering lands and improiving there societies.. Sometihng about gentrfication project</description>
+    </item>
+    
+    <item>
       <title>Video</title>
-      <link>https://master.d1qkinvelrebw8.amplifyapp.com/pages/video/</link>
+      <link>/pages/video/</link>
       <pubDate>Mon, 27 Apr 2020 18:34:37 +1200</pubDate>
       
-      <guid>https://master.d1qkinvelrebw8.amplifyapp.com/pages/video/</guid>
+      <guid>/pages/video/</guid>
       <description>Woodsmoke When you thought it was safe to venture back out. Recent sightings of the Wood Smoke killer will make you think again.
 Stay safe out there    The Descent Of Man Droping this Fall, The Descent Of Man   </description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>https://master.d1qkinvelrebw8.amplifyapp.com/pages/events/</link>
+      <link>/pages/events/</link>
       <pubDate>Mon, 27 Apr 2020 17:38:47 +1200</pubDate>
       
-      <guid>https://master.d1qkinvelrebw8.amplifyapp.com/pages/events/</guid>
+      <guid>/pages/events/</guid>
       <description>Upcomming events Black Tie Builders Awards Dinner 2020 The Builders formal dinner and awards ceremony will be held at the sophisticated Newtown sport Bar this year where cocktail samosas and Waitako will flow into the night. The prime minister will be handing out awards for excellence in the fields of; coping artistry, bricklaying finesse and finishing prowess.
 At the end of the night the much sought after golden trowel will be awarded to the Builder of The Year.</description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://master.d1qkinvelrebw8.amplifyapp.com/pages/photos/</link>
+      <link>/pages/photos/</link>
       <pubDate>Mon, 27 Apr 2020 17:38:30 +1200</pubDate>
       
-      <guid>https://master.d1qkinvelrebw8.amplifyapp.com/pages/photos/</guid>
+      <guid>/pages/photos/</guid>
       <description>93779629 965119173906539 7699144781238108160 n
       Selection 136
       Selection 137

@@ -1,7 +1,7 @@
-baseURL = "https://master.d1qkinvelrebw8.amplifyapp.com/"
+#baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "The Bone Yard"
-theme = "hamburg"
+theme = "bastard"
 
 [params]
     # Short subtitle/tagline. This is displayed in the header.
@@ -14,35 +14,59 @@ theme = "hamburg"
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["Builders"]
 
-[languages]
-	[languages.en]
-		languageCode = "en"
-		languageName = "English"
-		weight = 2
-		subtitle = "Community skate park"
-		[languages.en.menu]
-			[[languages.en.menu.main]]
+    name = "The Bone Yard"
+    #description = "A mystery person"
+    #email = "anthony.russel42@example.com"
+    #phone = "+234 23 9873237"
+    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2017
+    #avatar = "images/guy.jpg"
+    banner = "images/bg.png"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = true
+    showClients = true
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
+
+
+[menu]
+[[menu.main]]
 				name = "Builders"
 				identifier = "Builders"
-				url = "builders/builders"
-				weight = 9
-			[[languages.en.menu.main]]
+				URL = "/builders/builders"
+				weight = 2
+[[menu.main]]
 				name = "Features"
 				identifier = "Features"
-				url = "features/features"
-				weight = 8
-			[[languages.en.menu.main]]
+				URL = "/features/features"
+				weight = 3
+[[menu.main]]
 				name = "Events"
 				identifier = "Events"
-				url = "pages/events"
-				weight = 1
-			[[languages.en.menu.main]]
+				URL = "/pages/events"
+				weight = 10
+[[menu.main]]
 				name = "Photos"
 				identifier = "Photos"
-				url = "pages/photos"
-				weight =3
-			[[languages.en.menu.main]]
+				URL = "/pages/photos"
+				weight =7
+[[menu.main]]
 				name = "Video"
 				identifier = "Video"
-				url = "pages/video"
-				weight =2
+				URL = "/pages/video"
+				weight =8
+
+[[menu.main]]
+                name = "About"
+                identifier = "About"
+                URL = "/pages/About"
+                weight =1

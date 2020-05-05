@@ -3,56 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/</loc>
+    <loc>/pages/</loc>
     <lastmod>2020-05-01T15:53:17+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/builders/</loc>
-    <lastmod>2020-04-28T20:44:59+12:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-01T15:53:17+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/builders/builders/</loc>
-    <lastmod>2020-04-28T20:44:59+12:00</lastmod>
+    <loc>/pages/about/</loc>
+    <lastmod>2020-05-01T15:53:17+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/features/</loc>
-    <lastmod>2020-04-28T20:44:59+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/features/features/</loc>
-    <lastmod>2020-04-28T20:44:59+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/pages/</loc>
+    <loc>/pages/video/</loc>
     <lastmod>2020-04-27T18:34:37+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/pages/video/</loc>
-    <lastmod>2020-04-27T18:34:37+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/pages/events/</loc>
+    <loc>/pages/events/</loc>
     <lastmod>2020-04-27T17:38:47+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/pages/photos/</loc>
+    <loc>/pages/photos/</loc>
     <lastmod>2020-04-27T17:38:30+12:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://master.d1qkinvelrebw8.amplifyapp.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
