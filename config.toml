@@ -6,12 +6,6 @@ theme = "bastard"
 [params]
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
-    # To load additional CSS styles
-    # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
-    ShowGDPRNotice = true
-	subtitle = "The unoffical Bone Yard web page "
-	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
-	mainSections = ["Builders"]
     name = "The Bone Yard"
     banner = "images/bg.png"
 
