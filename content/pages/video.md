@@ -19,7 +19,7 @@ Stay safe out there
 
 # **The Descent Of Man**
 
-Droping this Fall, The Descent Of Man
+Dropping this Fall, The Descent Of Man
 {{< youtube _IsnmVDlZJk >}}
 
 
