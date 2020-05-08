@@ -5,7 +5,7 @@ draft: false
 noshowdate: true
 ---
 
-## **Upcomming events**
+## **Upcoming events**
 
 
 ### **Black Tie Builders Awards Dinner 2020**
