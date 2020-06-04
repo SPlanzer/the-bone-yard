@@ -1,44 +1,50 @@
-baseURL = "https://master.d1qkinvelrebw8.amplifyapp.com/"
+baseURL = "boneyarddiy.com"
 languageCode = "en-us"
 title = "The Bone Yard"
-theme = "bastard"
+theme = "good-bones"
 
 [params]
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
     name = "The Bone Yard"
     banner = "images/bg.png"
+    mainSections = ["articles"]
+
 
 
 [menu]
 [[menu.main]]
+				name = "About"
+				identifier = "About"
+				URL = "/pages/About"
+				weight =1
+[[menu.main]]
+				name = "Articles"
+				identifier = "Articles"
+				URL = "/articles"
+				weight =2
+[[menu.main]]
 				name = "Builders"
 				identifier = "Builders"
 				URL = "/builders/builders"
-				weight = 2
+				weight = 3
 [[menu.main]]
 				name = "Features"
 				identifier = "Features"
 				URL = "/features/features"
-				weight = 3
+				weight = 4
+[[menu.main]]
+				name = "Photos"
+				identifier = "Photos"
+				URL = "/pages/photos"
+				weight =5
+[[menu.main]]
+				name = "Video"
+				identifier = "Video"
+				URL = "/pages/video"
+				weight =6
 [[menu.main]]
 				name = "Events"
 				identifier = "Events"
 				URL = "/pages/events"
 				weight = 10
-[[menu.main]]
-				name = "Photos"
-				identifier = "Photos"
-				URL = "/pages/photos"
-				weight =7
-[[menu.main]]
-				name = "Video"
-				identifier = "Video"
-				URL = "/pages/video"
-				weight =8
-
-[[menu.main]]
-                name = "About"
-                identifier = "About"
-                URL = "/pages/About"
-                weight =1
