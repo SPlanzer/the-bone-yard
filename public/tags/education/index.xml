@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on The Bone Yard</title>
+    <link>boneyarddiy.com/tags/education/</link>
+    <description>Recent content in education on The Bone Yard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 21:34:30 +0200</lastBuildDate>
+    
+	<atom:link href="boneyarddiy.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top secret concrete research this week</title>
+      <link>boneyarddiy.com/articles/top-secret-concrete-research/</link>
+      <pubDate>Thu, 09 Apr 2020 21:34:30 +0200</pubDate>
+      
+      <guid>boneyarddiy.com/articles/top-secret-concrete-research/</guid>
+      <description>This week top secret concrete research is underway. This will test new ways to build haggard features. We ask you stay away as the lasers are in use</description>
+    </item>
+    
+    <item>
+      <title>Why DIY is part of an vibrant city</title>
+      <link>boneyarddiy.com/articles/why-diy/</link>
+      <pubDate>Thu, 09 Apr 2020 21:34:30 +0200</pubDate>
+      
+      <guid>boneyarddiy.com/articles/why-diy/</guid>
+      <description>If your city does not have a DIY spot, you are nothing.</description>
+    </item>
+    
+  </channel>
+</rss>

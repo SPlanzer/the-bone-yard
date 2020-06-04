@@ -2,13 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Bone Yard</title>
-    <link>https://master.d1qkinvelrebw8.amplifyapp.com/tags/</link>
+    <link>boneyarddiy.com/tags/</link>
     <description>Recent content in Tags on The Bone Yard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 21:34:30 +0200</lastBuildDate>
     
-	<atom:link href="https://master.d1qkinvelrebw8.amplifyapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="boneyarddiy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>education</title>
+      <link>boneyarddiy.com/tags/education/</link>
+      <pubDate>Thu, 09 Apr 2020 21:34:30 +0200</pubDate>
+      
+      <guid>boneyarddiy.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feautres</title>
+      <link>boneyarddiy.com/tags/feautres/</link>
+      <pubDate>Thu, 09 Apr 2020 21:34:30 +0200</pubDate>
+      
+      <guid>boneyarddiy.com/tags/feautres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rumour</title>
+      <link>boneyarddiy.com/tags/rumour/</link>
+      <pubDate>Thu, 09 Apr 2020 21:34:30 +0200</pubDate>
+      
+      <guid>boneyarddiy.com/tags/rumour/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
