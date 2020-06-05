@@ -25,8 +25,3 @@ Dropping this Fall, The Descent Of Man.
 
 -------------------------------------------
 
-
-# **A Succulent Chinese Meal**
-Are you waiting to receive my limp penis? 
-
-{{< youtube XebF2cgmFmU >}}
