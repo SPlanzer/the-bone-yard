@@ -23,5 +23,3 @@ Dropping this Fall, The Descent Of Man.
 {{< youtube _IsnmVDlZJk >}}
 
 
--------------------------------------------
-
