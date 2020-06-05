@@ -11,23 +11,25 @@
 
   <!-- Bootstrap -->
   <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}"/>
-
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css"/>
 <!--   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
  -->  
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}"/>
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css"/>
 
-  <link rel="stylesheet" href="{{ "css/github.css" | relURL }}"/>
-  <link rel="stylesheet" href="{{ "css/color-theme.css" | relURL }}"/>
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/github.css"/>
+
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/color-theme.css"/>
+
 
 <!--   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" type="text/css">
  -->  <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico" />
 
   {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ (print "css/" . ) | absURL }}">
+
   {{ end }}
     <!-- Custom styles -->
-  <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}"/>
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css"/>
 
 
 </head>
